@@ -1,3 +1,3 @@
-# Mastering Ts
+# TS-mastering
 
-A typescript project
+A git repo for TypeScript mastering
